@@ -1,0 +1,18 @@
+1. python developed by Guido van Rossum.
+2. python support functional,object oriented,imperative,Procedural.
+3. yes python is case sensitive.
+4. Extension is .py
+5. # is used to single line comment
+6. python version commands 
+   (-import platform
+   print(platform.python_version()))
+7.anonymopus function -lambda
+8.pip for prefered installed program
+9.Built in function type,length,id.
+10.maximum length of identifer is 79.
+11.python is optimised code level with several number of libraries with compare to other language.
+12.Memory in Python is managed by Python private heap space.
+13.The version you need depends on what you want to do in Python.
+For example, if you are working on a project coded in Python version 2.6, you probably need that version. 
+If you are starting a project from scratch, you have the freedom to choose.
+14.yes indentation required in python.
